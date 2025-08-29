@@ -4,7 +4,6 @@
 <div align="center">
   
 ![Portfolio Preview](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -80,7 +79,6 @@ CODSOFT/
 ├── 🎨 style.css                # CSS styles and responsive design
 ├── ⚡ app.js                   # JavaScript functionality and interactions
 ├── 📋 README.md                # Project documentation and instructions
-├── 📄 LICENSE                  # MIT License file
 │
 ├── 📁 doc/                    # Documents folder
 │   └── 📄 resume.pdf          # Resume PDF file for download/viewing
