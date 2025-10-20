@@ -161,7 +161,6 @@ code .
 ## 👨‍💻 Developer Details
 
 - **Name:** Nirupama B  
-- **Email:** [bnirupamab@gmail.com](mailto:bnirupamab@gmail.com)  
-- **Phone:**  +91 7204211400 
+- **Email:** [bnirupamab@gmail.com](mailto:bnirupamab@gmail.com)   
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nirupama-b-617200268/)  
 - **GitHub:** [@N-i-r-u-p-a-m-a-B](https://github.com/N-i-r-u-p-a-m-a-B)
